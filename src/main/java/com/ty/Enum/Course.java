@@ -1,0 +1,6 @@
+package com.ty.Enum;
+
+public enum Course {
+
+	JAVA_FULL_STACK, PYTHON_FULL_STACK, JAVA_TESTING, PYTHON_TESTING, MERN_STACK, MEAN_STACK, DEVEOPS
+}
